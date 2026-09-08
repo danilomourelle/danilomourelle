@@ -31,26 +31,36 @@ In terms of coding practices, I've honed my architectural skills and recognized 
 </div>
 
 ### Short-Term Goals 🎒
-To expand my skill set, I'm eager to learn front-end technologies and become a full-stack developer. This would significantly enhance my career prospects. Additionally, I'm interested in acquiring knowledge in Java, given its widespread use. 
+Staying true to my roots, I'm intrigued by the potential of Deno and its focus on modern security. Beyond that, I'm fascinated by infrastructure tools that streamline developer workflows—specifically Ansible, Terraform, Nomad, and Go.
+
+Upon that, I'm also fascinate with configuring and troubleshooting tools that facilitates developers life and among them, Ansible, Terraform and Nomad have called my attention.
 
 <div style="display: inline_block">
-  <img alt="Java" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
-  <img alt="Spring Boot" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" />
-  <img alt="React" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
-  <img alt="Next" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" />
-  <img alt="TailwindCSS" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
-  <img alt="HTML" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
-  <img alt="CSS" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+  <img alt="Deno" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/denojs/denojs-original.svg" />
+  <img alt="Ansible" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ansible/ansible-original-wordmark.svg" />
+  <img alt="Terraform" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/terraform/terraform-original-wordmark.svg" />
+  <img alt="Nomad" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nomad/nomad-original.svg" /> 
+  <img alt="GO" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg" />
 </div>
 
 ### Long-Term Goals 🔭
-While I don't have a strict timeline, I'm passionate about pursuing AI knowledge as I believe it will be a crucial skill in the future of development. Python serves as a solid foundation for this endeavor.
-
-Staying true to my roots, I'm also intrigued by the potential of Deno. Given that a second version of software often surpasses its predecessor, Deno can benefit from learning from Node.js's shortcomings and implementing improvements.
+To broaden my skill set and move toward full-stack development, I'm eager to build deeper expertise in modern front-end technologies.
 
 <div style="display: inline_block">
-  <img alt="Python" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
-  <img alt="Deno" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/denojs/denojs-original.svg" />
+  <img alt="React" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
+  <img alt="Next" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" />
+  <img alt="HTML" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+  <img alt="CSS" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+</div>
+
+### Techs I already had some contact but it's not my thing
+I've had hands-on experience with these tools in past projects, though they aren't my primary focus today
+
+<div style="display: inline_block">
+  <img alt="Python" height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+  <img alt="Java" height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
+  <img alt="Spring Boot" height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" />
+  <img alt="C#" height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
 </div>
 
 ### Get in Touch 📬
